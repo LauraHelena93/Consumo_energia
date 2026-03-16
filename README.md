@@ -13,7 +13,14 @@ Este programa tem como objetivo fazer uma calculadora para consumo de energia el
 
 ## 📚 Aprendizados
 
-🔋 Permite que o usuário informe o nome do eletrodoméstico, potência do aparelho, horas de uso por dia, consumo mensal, valor do Kwh (R$), para calcular o gasto de energia em kWh e em reais.
+Permite que o usuário informe:
+
+- Nome do eletrodoméstico
+- Potência do aparelho
+- Horas de uso por dia
+- Conversão para consumo mensal
+- Valor do Kwh (R$)
+- Cálculo final do gasto de energia em kWh e em reais.
 
 💡 O sistema colabora para entender quanto um aparelho consome de energia elétrica, facilitando o controle de gastos na conta de luz.
 
