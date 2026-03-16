@@ -1,18 +1,21 @@
-# ⚡ Consumo de Energia - Eletrodoméstico
+## ⚡ Consumo de Energia - Eletrodoméstico
 
-# 🎯 Objetivo
+
+## 🎯 Objetivo
 
 Este programa tem como objetivo fazer uma calculadora para consumo de energia elétrica.
 
-# 💻 Linguagem utilizada
+
+## 💻 Linguagem utilizada
 
 🐍 Desenvolvida em Python.
 
-# 📚 Aprendizados
+
+## 📚 Aprendizados
 
 🔋 Permite que o usuário informe o nome do eletrodoméstico, potência do aparelho, horas de uso por dia, consumo mensal, valor do Kwh (R$), para calcular o gasto de energia em kWh e em reais.
 
-💡 O sistema colabora a entender quanto um aparelho consome de energia elétrica, facilitando o controle de gastos na conta de luz.
+💡 O sistema colabora para entender quanto um aparelho consome de energia elétrica, facilitando o controle de gastos na conta de luz.
 
 ---
 
